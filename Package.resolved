@@ -12,11 +12,11 @@
       },
       {
         "package": "SnapKit",
-        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "repositoryURL": "https://github.com/Iron-Ham/SnapKit",
         "state": {
-          "branch": null,
-          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
-          "version": "5.0.1"
+          "branch": "1e059ea",
+          "revision": "1e059ea08f9ddc62da28d88b3418f5d10ca0abd5",
+          "version": null
         }
       }
     ]
